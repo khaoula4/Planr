@@ -18,7 +18,7 @@ import androidx.annotation.Nullable;
 import androidx.core.content.ContextCompat;
 
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment;
-
+import com.google.android.material.textfield.TextInputLayout;
 
 
 import java.util.Objects;
@@ -28,6 +28,7 @@ public class AddNewTask extends BottomSheetDialogFragment {
     public static final String TAG = "ActionBottomDialog";
     private EditText newTaskText;
     private Button newTaskSaveButton;
+
 
     private DatabaseHandler db;
 

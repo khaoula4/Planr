@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void run(){
                 //Call next screen
-                Intent intent=new Intent(MainActivity.this,Login.class);
+                Intent intent=new Intent(MainActivity.this,ToDo.class);
 
                 startActivity(intent);
 
