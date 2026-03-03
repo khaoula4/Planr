@@ -8,7 +8,7 @@ Ever wanted to sort out your life in a moment? The solution is literally in your
   
 </div>
 
-## Peep the Features! 🚀
+## Peep the Features! 
 
 - **Hello There, Beautiful Screen!** Our app kicks off with a cute little welcome screen featuring our logo, which will wave goodbye after 4 seconds. 
 
@@ -20,7 +20,7 @@ Ever wanted to sort out your life in a moment? The solution is literally in your
 
 - **Keep ‘Em Tasks in Check!** Our Task Manager is your new buddy, helping you create, edit, and delete tasks while having your back by saving all the deeds in a local SQLite database. 
 
-## Let’s Get Technical (Just a Tiny Bit!) 🤓
+## Let’s Get Technical 🤓
 - For the coding warriors out there, we created Planr with some good Java for Android app development.
 - Used Firebase for that  sweet authentication and real-time data management.
 - Used SQLite for local task management and keeping things in check!
